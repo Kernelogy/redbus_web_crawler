@@ -1,0 +1,2 @@
+Running the project
+     streamlit run redbus_streamlit.py
